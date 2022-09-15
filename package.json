@@ -1,0 +1,25 @@
+{
+  "name": "async-landingpage",
+  "version": "1.0.0",
+  "description": "Proyecto curso Asincronismo en JS",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabyugarte/async-landingPage.git"
+  },
+  "keywords": [
+    "JAVASCRIPT"
+  ],
+  "author": "Gabriela Ugarte <gabrielaugartemaco@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gabyugarte/async-landingPage/issues"
+  },
+  "homepage": "https://github.com/gabyugarte/async-landingPage#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
